@@ -1,4 +1,3 @@
-
 # TypeScript
 
 [![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml)
